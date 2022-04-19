@@ -8,5 +8,5 @@ It is made in Python and it predicts the future salary of the employee and also 
 
 ## 💡 Features
 
-- Derive Future Salary instantly.
+- Predict Future Salary instantly.
 - Show Linear Regression Plot.
